@@ -11,7 +11,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 
-
 public class MainActivity extends ActionBarActivity {
     public Button bplay,bstop,bsoundPool;
     public MediaPlayer mp;
